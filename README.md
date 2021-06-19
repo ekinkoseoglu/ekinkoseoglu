@@ -2,9 +2,11 @@
 <h1 align="center">Hi there, I'm Ekin 👋</h1>
 <p>
   
-  ### I'm currently I have started to learning programming in January 2021
+  ### I started learning programming in January 2021
+<p> 
+  :ledger: My current projects are :ledger:
 <p>
-🎈 RentaCar Projects
+🎈 RentACar Projects
 <p>
 🎈 C# RoadMap
 <p>
