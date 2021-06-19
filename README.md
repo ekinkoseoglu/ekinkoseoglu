@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi there, I'm Ekin and I'm 23 👋</h1>
+<h1 align="center">Hi there, I'm Ekin  👋</h1>
 <p>
-  
-  ### I started learning programming in January 2021
+
+  ### I'm 23 and I started learning programming in January 2021
 <p> 
   :ledger: My current projects are :ledger:
 <p>
