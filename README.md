@@ -17,7 +17,7 @@
   👨‍💻 Beginner Backend Developer, Electric - Electrical Engineering Student
 </p>
 <p>
-   🎈 Working around .Net & ANGULAR
+   🎈 Working around C# & ANGULAR
 </p>
 
 
