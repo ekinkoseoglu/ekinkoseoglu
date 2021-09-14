@@ -8,7 +8,7 @@
 <p>
 🎈 RentACar Projects
 <p>
-🎈 C# RoadMap
+🎈 C# & PHP RoadMap
 <p>
 🎈 GameMarketPlatform
 <p>
@@ -17,12 +17,12 @@
   👨‍💻 Beginner Backend Developer, Electric - Electrical Engineering Student
 </p>
 <p>
-   🎈 Working around C# (for now)
+   🎈 Working around C# & PHP (for now)
 </p>
 
 
 <p>
-  💻 Focusing My Projects
+  💻 Focusing on My Projects
 </p>
 
 
