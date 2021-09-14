@@ -14,7 +14,7 @@
 <p>
 ---
 <p>
-  👨‍💻 Beginner Backend Developer, Electric - Electrical Engineering Student
+  👨‍💻 Beginner Backend Developer
 </p>
 <p>
    🎈 Working around C# & PHP (for now)
