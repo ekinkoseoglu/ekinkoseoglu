@@ -23,7 +23,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/koseogluekin/details/featured/1635488573313/single-media-viewer/](https://www.linkedin.com/in/koseogluekin/details/featured/1635488573313/single-media-viewer/)
 
-- ⚡ Fun fact **Love**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
