@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekin Köseoğlu</h1>
-<h3 align="center">I'm working as a Full stack developer on .NET ASP.NET, PHP Laravel, RESTFul APIs, and currently studying at Karabuk University as an Electrical and Electronics Engineering student. Developing and still working on my current projects.</h3>
+<h3 align="center">I'm working as a Full stack developer on .NET ASP.NET, PHP Laravel, RESTFul APIs, Angular, React and currently studying at Karabuk University as an Electrical and Electronics Engineering student. Developing and still working on my current projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekinkoseoglu&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
 
