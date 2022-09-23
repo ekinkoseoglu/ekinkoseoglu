@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ekin Köseoğlu</h1>
-<h3 align="center">I'm working as a Full stack developer on .NET ASP.NET, PHP Laravel, RESTFul APIs, Angular, React and currently studying at Karabuk University as an Electrical and Electronics Engineering student. Developing and still working on my current projects.</h3>
+<h3 align="center">Senior year student of BSc of Electrical - Electronic Engineering at Karabuk University. Works in the software engineering field specializing in project management, software design & FullStack Developer. He is interested in web and audio technologies. He has experience in web technology frameworks Laravel and .NET with frontend knowledge of React.js, and Angular.js. As a graduation project, he is currently working on an Embedded Software Design for Smart Parking System. He has extensive knowledge in other fields like Restful APIs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekinkoseoglu&label=Profile%20views&color=0e75b6&style=flat" alt="ekinkoseoglu" /> </p>
 
