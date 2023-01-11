@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Senior year student of BSc of Electrical - Electronic Engineering at Karabuk University. Works in the software engineering field specializing in project management, software design & FullStack Developer. He is interested in web and audio technologies. He has experience in web technology frameworks Laravel and .NET with frontend knowledge of React.js, and Angular.js. As a graduation project, he is currently working on an Embedded Software Design for Smart Parking System. He has extensive knowledge in other fields like Restful APIs.
+### <div align="center">Hi 👋, I'm Ekin Köseoğlu, I'm a Senior year student of BSc of Electrical - Electronic Engineering at Karabuk University. Works in the software engineering field specializing in project management, software design & FullStack Developer. He is interested in web and audio technologies. He has experience in web technology frameworks Laravel and .NET with frontend knowledge of React.js, and Angular.js. As a graduation project, he is currently working on an Embedded Software Design for Smart Parking System. He has extensive knowledge in other fields like Restful APIs.
 </div>  
   
 
