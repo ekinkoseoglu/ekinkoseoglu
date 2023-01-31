@@ -13,7 +13,7 @@
 -  🌱 I’m currently learning **Javascript,Java ,Angular , React, Bootstrap, Vue.js, PHP**  
   
 
-- 💬 Ask me about **C#, Angular, Typescript, Laravel, Git, HTML, CSS**  
+- 💬 Ask me about **C#, Javascript, React, Angular, Typescript, Laravel, Git, HTML, CSS**  
   
 
 - 📫 How to reach me **ekindenizkoseoglu@gmail.com**  
