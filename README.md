@@ -10,13 +10,13 @@
 - 🔭 I’m currently working on [RentACar Back-End](https://github.com/ekinkoseoglu/ReCapProject)  
   
 
--  🌱 I’m currently learning **Javascript,Java ,Angular , React, Bootstrap, Vue.js, PHP**  
+-  🌱 I’m currently learning **Javascript, NodeJS, Java, Angular, React, Bootstrap, Vue.js, PHP**  
   
 
 - 💬 Ask me about **C#, Javascript, React, Angular, Typescript, Laravel, Git, HTML, CSS**  
   
 
-- 📫 How to reach me **ekindenizkoseoglu@gmail.com**  
+- 📫 How to reach me **ekinkoseoglu0@gmail.com**  
   
 
 <br/>  
