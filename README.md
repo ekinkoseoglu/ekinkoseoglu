@@ -16,7 +16,7 @@
 - 💬 Ask me about **C#, Javascript, React, Angular, Typescript, Laravel, Git, HTML, CSS**  
   
 
-- 📫 How to reach me **ekinkoseoglu0@gmail.com**  
+- 📫 How to reach me **ekindkoseoglu@gmail.com**  
   
 
 <br/>  
